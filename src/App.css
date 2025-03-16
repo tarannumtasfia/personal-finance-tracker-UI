@@ -1,0 +1,27 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #ffeb3b; /* Yellow color for the active link */
+}
+
+.nav-link {
+  cursor: pointer;
+}
+.nav-link:hover {
+  cursor: pointer;
+}
